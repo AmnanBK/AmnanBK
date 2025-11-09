@@ -1,15 +1,21 @@
-# Hi there 👋, I'm Amnan Budi Kusuma
-Informatics Student | Passionate About Web Development, Data Science, and Machine Learning
+## 👋 Hi, I'm Amnan Budi Kusuma
+🎓 **Informatics Student**  
+💻 **Passionate About Web Development, Data Science, and Machine Learning**
 
-## Contact
-- LinkedIn: https://www.linkedin.com/in/amnan-budi-kusuma
-- Email: amnanonduty@gmail.com
+### About Me
+I’m an informatics student who loves exploring the intersection of **technology, creativity, and problem-solving**.  
+Currently diving deeper into **Full-Stack Web Development** and **AI/ML applications**.
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmnanBK&layout=compact)
+### 🚀 Current Focus
+- Building web apps with modern frameworks  
+- Exploring data-driven projects  
+- Learning more about AI & ML models
 
-![Stats](https://github-readme-stats.vercel.app/api?username=AmnanBK&show_icons=true)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=AmnanBK)
+### 📫 Let's Connect
+[💼 LinkedIn](https://linkedin.com/in/amnan-budi-kusuma)  
+[📧 Email](mailto:amnanonduty@gmail.com)  
 
+⭐ _“Code. Learn. Build. Repeat.”_ ⭐
 <!--
 **AmnanBK/AmnanBK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
