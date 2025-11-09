@@ -11,8 +11,8 @@ Currently diving deeper into **Full-Stack Web Development** and **AI/ML applicat
 ---
 
 ### ⚙️ Tech Stack
-💡 **Languages:** Python, JavaScript, C++ , PHP 
-🧰 **Frameworks & Tools:** Node.js, Express, TensorFlow, Scikit-learn, 
+💡 **Languages:** Python, JavaScript, C++ , PHP
+🧰 **Frameworks & Tools:** Node.js, Express, TensorFlow, Scikit-learn
 🗄️ **Databases:** MySQL, MongoDB
 🌐 **Other Skills:** Git, REST API, Data Visualization 
 
