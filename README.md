@@ -5,9 +5,9 @@ Informatics Student | Passionate About Web Development, Data Science, and Machin
 - LinkedIn: https://www.linkedin.com/in/amnan-budi-kusuma
 - Email: amnanonduty@gmail.com
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact)
-![Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=USERNAME)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmnanBK&layout=compact)
+![Stats](https://github-readme-stats.vercel.app/api?username=AmnanBK&show_icons=true)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=AmnanBK)
 
 <!--
 **AmnanBK/AmnanBK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
